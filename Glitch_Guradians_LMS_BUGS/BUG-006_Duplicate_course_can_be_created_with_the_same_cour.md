@@ -17,7 +17,7 @@ Duplicate course can be created with the same course details
 |-------|-------|
 | Environment | QA |
 | Browser | Chrome |
-| Browser Version | |
+| Browser Version | Latest |
 | OS | Windows 11 |
 | Build / Version | v1.0 |
 | Module | Course Management (Add course) |
@@ -102,9 +102,9 @@ Screenshot attached below
 | Field | Value |
 |-------|-------|
 | Reported By | Shobana V |
-| Assigned To |  |
+| Assigned To | Dev Team  |
 | Date Reported | 2026-07-09 00:00:00 |
-| Sprint | |
+| Sprint | 2 |
 | Related Story / Task | |
 | Related Pull Request | |
 | Status | New |
