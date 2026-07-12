@@ -17,7 +17,7 @@ Add Client button does not create a client after entering all mandatory fields
 |-------|-------|
 | Environment | QA |
 | Browser | Chrome |
-| Browser Version | |
+| Browser Version | Latest |
 | OS | Windows 11 |
 | Build / Version | v1.1 |
 | Module | Dynamic field (Add client) |
@@ -103,9 +103,9 @@ None provided
 | Field | Value |
 |-------|-------|
 | Reported By | Vetrivel B |
-| Assigned To |  |
+| Assigned To | Dev Team |
 | Date Reported | 2026-07-09 00:00:00 |
-| Sprint | |
+| Sprint | 3 |
 | Related Story / Task | |
 | Related Pull Request | |
 | Status | New |

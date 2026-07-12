@@ -17,7 +17,7 @@ Logged-in user email is displayed incorrectly after successful login
 |-------|-------|
 | Environment | QA |
 | Browser | Chrome |
-| Browser Version | |
+| Browser Version | Latest |
 | OS | Windows 11 |
 | Build / Version | v1.0 |
 | Module | Login (Login) |

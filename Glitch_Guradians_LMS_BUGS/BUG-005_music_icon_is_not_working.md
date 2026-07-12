@@ -2,7 +2,7 @@
 name: "🐞 Bug Report"
 about: Report a defect or unexpected behavior in the application
 title: "[BUG] music icon is not working"
-labels: ["bug"]
+labels: ["bug", "feature-to-be-developed"]
 assignees: [Muhindhar]
 ---
 # 🐞 Bug Report (BUG-005)

@@ -17,7 +17,7 @@ Accepting blank field as Test module name
 |-------|-------|
 | Environment | QA |
 | Browser | Chrome |
-| Browser Version | |
+| Browser Version | Latest |
 | OS | Windows 12 |
 | Build / Version | v1.1 |
 | Module | Course Management (Add course structure) |
@@ -103,9 +103,9 @@ Screenshot attached
 | Field | Value |
 |-------|-------|
 | Reported By | Mylambigai G |
-| Assigned To |  |
+| Assigned To | Dev Team |
 | Date Reported | 2026-07-09 00:00:00 |
-| Sprint | |
+| Sprint | 4 |
 | Related Story / Task | |
 | Related Pull Request | |
 | Status | New |

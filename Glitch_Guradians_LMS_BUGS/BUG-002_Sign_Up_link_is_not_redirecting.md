@@ -2,7 +2,7 @@
 name: "🐞 Bug Report"
 about: Report a defect or unexpected behavior in the application
 title: "[BUG] Sign Up link is not redirecting"
-labels: ["bug"]
+labels: ["bug", "feature-to-be-developed"]
 assignees: [Muhindhar]
 ---
 # 🐞 Bug Report (BUG-002)

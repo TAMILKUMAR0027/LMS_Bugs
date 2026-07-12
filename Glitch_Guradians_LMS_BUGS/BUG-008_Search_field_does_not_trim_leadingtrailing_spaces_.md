@@ -17,7 +17,7 @@ Search field does not trim leading/trailing spaces, causing valid course search 
 |-------|-------|
 | Environment | QA |
 | Browser | Chrome |
-| Browser Version | |
+| Browser Version | Latest |
 | OS | Windows 11 |
 | Build / Version | v1.0 |
 | Module | Course Management (Search) |
@@ -99,9 +99,9 @@ Screenshot attached
 | Field | Value |
 |-------|-------|
 | Reported By | Malavicka V |
-| Assigned To |  |
+| Assigned To | Dev Team |
 | Date Reported | 2026-07-09 00:00:00 |
-| Sprint | |
+| Sprint | 4 |
 | Related Story / Task | |
 | Related Pull Request | |
 | Status | New |
