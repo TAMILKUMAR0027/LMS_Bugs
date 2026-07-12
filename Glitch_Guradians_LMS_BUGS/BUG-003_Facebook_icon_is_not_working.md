@@ -99,9 +99,9 @@ Screenshot attached below
 | Field | Value |
 |-------|-------|
 | Reported By | Muhindhar S V |
-| Assigned To |  |
+| Assigned To | Dev Team |
 | Date Reported | 2026-07-09 00:00:00 |
-| Sprint | |
+| Sprint | 3 |
 | Related Story / Task | |
 | Related Pull Request | |
 | Status | New |
