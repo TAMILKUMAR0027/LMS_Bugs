@@ -83,7 +83,9 @@ No action
 
 ## Screenshots / Screen Recording
 None provided
+<img width="1026" height="803" alt="Image" src="https://github.com/user-attachments/assets/d3e30ed6-6215-43a7-9441-27fe3dc8fff9" />
 
+<img width="685" height="662" alt="Image" src="https://github.com/user-attachments/assets/3877e681-3481-4ace-98c6-9d7110590c5d" />
 ---
 
 ## Attachments
