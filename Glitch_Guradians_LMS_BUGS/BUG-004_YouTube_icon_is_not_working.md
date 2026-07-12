@@ -81,6 +81,7 @@ No action
 
 ## Screenshots / Screen Recording
 Screenshot attached below
+<img width="1882" height="1086" alt="Image" src="https://github.com/user-attachments/assets/b3ea2770-fd39-45f1-866a-b24c2bfbb247" />
 
 ---
 
